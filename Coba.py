@@ -1,0 +1,1 @@
+print("Nama saya Naurah Salsabila Kusuma Yasin")
